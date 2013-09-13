@@ -56,3 +56,5 @@ bootstrap + ajax
 http://symfony.cn/
 
 -----------------------------
+安装switch host 
+谷歌浏览器 暗转 hosts扩展（不用邮件登陆注册的那个）
