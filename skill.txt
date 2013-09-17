@@ -1,0 +1,10 @@
+1.web安全 白帽子讲web安全
+2.数据库 mysql mysqli 命令行 momgodb
+3.wiki 各类服务器的搭建
+4.细说php
+5.hg git tower 
+6.构建高性能web站点
+7.ci thinkphp lua
+8.python  go
+9.linux
+
